@@ -1,5 +1,9 @@
+# Purpose
+To explore and learn the Django framework. This project utilizes Python, Javascript, HTML, and CSS.
+
 # mail
 An email client that makes API calls to send and receive emails.
+
 
 # Features
 ### Send Mail
