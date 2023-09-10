@@ -1,0 +1,23 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-read {
+    background-color: #aaaaaa;
+}
+
+.email-row {
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 5px;
+    width: 100%;
+}
+
+.email-row strong {
+    padding-right: 8px;
+}
+
+.email-timestamp {
+    color: #888888;
+    float: right;
+}
